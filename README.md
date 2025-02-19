@@ -85,10 +85,3 @@ $ ./client get mykey
 - Implement **Pub/Sub messaging**.
 - Introduce **multi-threading** for better concurrency.
 
-
-More resources:
-- Redis Official Documentation: [https://redis.io/documentation](https://redis.io/documentation)
-- Beej’s Guide to Network Programming: [https://beej.us/](https://beej.us/)
-
-## Contributions
-Contributions are welcome! If you find bugs or want to add new features, feel free to open an issue or submit a pull request.
