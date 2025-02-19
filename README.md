@@ -85,8 +85,6 @@ $ ./client get mykey
 - Implement **Pub/Sub messaging**.
 - Introduce **multi-threading** for better concurrency.
 
-## References
-This project is inspired by the book: *"Build Your Own Redis with C/C++: Learn Network Programming and Data Structures by Coding from Scratch"* by James Smith.
 
 More resources:
 - Redis Official Documentation: [https://redis.io/documentation](https://redis.io/documentation)
